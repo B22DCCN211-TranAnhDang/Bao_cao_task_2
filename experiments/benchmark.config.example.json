@@ -1,0 +1,10 @@
+{
+  "repeats": 5,
+  "timeout_seconds": 180,
+  "models": {
+    "v1": "openai/gpt-5.1-codex",
+    "v2": "openai/gpt-5.1-codex",
+    "pi": "openai/gpt-5.1-codex",
+    "codex": "gpt-5.1-codex"
+  }
+}

@@ -1,0 +1,4 @@
+exit_code=0
+stdout=No plugins found
+timestamp=2026-11-12T03:02:43.517Z level=INFO run=5177ead4 msg="loading plugin" id=/home/tts/REPORT_TASK2_bundle/experiments/v1-plugin entrypoint=file:///home/tts/REPORT_TASK2_bundle/experiments/v1-plugin/index.ts http.span=33 role=server
+timestamp=2026-11-12T03:02:43.519Z level=WARN run=5177ead4 message="failed to load plugin" target=/home/tts/REPORT_TASK2_bundle/experiments/v1-plugin ref=err_46305b0c cause="Cause([Fail(PluginModule.LoadError: Plugin must export a default definition with an id and an effect or setup function. (cause: SchemaError(Missing key\n  at [\"default\"])))])" http.span=35 role=server

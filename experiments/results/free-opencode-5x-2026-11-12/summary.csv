@@ -1,0 +1,7 @@
+task,tool,passed,total,completion_rate,median_seconds,median_input_tokens,median_output_tokens,median_cache_read_tokens
+bug,v1,5,5,1.000,6.108,10493.0,127.0,22272.0
+bug,v2,5,5,1.000,7.329,3405.0,286.0,21568.0
+feature,v1,5,5,1.000,13.375,6663.0,273.0,33216.0
+feature,v2,5,5,1.000,9.657,6307.0,302.0,22592.0
+read,v1,5,5,1.000,4.211,5115.0,57.0,15360.0
+read,v2,5,5,1.000,2.701,2590.0,26.0,6144.0

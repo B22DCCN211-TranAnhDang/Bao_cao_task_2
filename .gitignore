@@ -1,0 +1,5 @@
+**/node_modules/
+**/__pycache__/
+experiments/benchmark.config.json
+experiments/results/invalid-pwd-do-not-use/
+experiments/results/free-opencode-corrected-2026-11-12/
